@@ -4,6 +4,13 @@
 
 /* Estiliza o corpo da página */
 body {
+    /* ... */
+    background-image: url('https://image.winudf.com/v2/image1/Y29tLmJlc3QubGl2ZS53YWxscGFwZXIuYmFja2dyb3VuZHMuaGQudGhlbWUuZ2lybHkud2FsbHBhcGVycy5pbWFnZXMubHdwLmRvZ3MuZ2VybWFuLnNoZXBoZXJkLmxpdmUud2FsbHBhcGVyX3NjcmVlbl81XzE1NDg5NDk5NDhfMDI2/screen-5.jpg?fakeurl=1&type=.jpg');
+    background-size: cover;
+    background-position: top right;
+    background-attachment: fixed;
+}
+body {
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
     background-color: #DDDDDD; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
@@ -19,7 +26,7 @@ body {
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 2.5rem; /* Tamanho da fonte */
-    color: #222831; /* Cor do texto */
+    color: #30475E; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
 }
@@ -99,7 +106,7 @@ section button {
 
 /* Estiliza o rodapé da página */
 footer {
-    background-color: #F5F7F8; /* Cor de fundo do rodapé */
+    background-color: #DDDDDD; /* Cor de fundo do rodapé */
     color: #45474B; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */
