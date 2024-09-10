@@ -74,7 +74,7 @@ section button {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
-    background: #FFFFFF; /* Cor de fundo dos itens */
+    background: rgb(255, 255, 255, 0.5); /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
@@ -106,7 +106,7 @@ section button {
 
 /* Estiliza o rodapé da página */
 footer {
-    background-color: #DDDDDD; /* Cor de fundo do rodapé */
+    background-color: rgb(255, 255, 255, 0.5); /* Cor de fundo do rodapé */
     color: #45474B; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     padding: 0; /* Espaçamento interno */
