@@ -243,7 +243,7 @@ let dados = [
 {
     titulo: "Spitz Alemão",
     descrição: "O Spitz Alemão é uma raça de pequeno porte, conhecida por sua pelagem fofa e personalidade alerta. Eles são cães leais, inteligentes e ótimos companheiros para a família.",
-    link: "https://www.petz.com.br/cachorro/racas/spitz-alemao/",
+    link: "https://portalvet.royalcanin.com.br/guia-de-racas/spitz-alemao/",
     tags: "pequeno, pelagem fofa, alerta, leal, inteligente, companheiro"
 },
 {
