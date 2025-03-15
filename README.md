@@ -18,8 +18,6 @@ Este é um pequeno projeto desenvolvido utilizando **HTML, CSS e JavaScript**. E
 
 
 ## Autor
-- **Lucas Renan** - [Seu Perfil no GitHub](https://github.com/seu-usuario)
+- **Lucas Renan Frois Souza** 
 
-## Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
