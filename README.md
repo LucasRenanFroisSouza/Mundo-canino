@@ -1,7 +1,7 @@
  Projeto - Pesquisa de Raças de Cachorros
 
  Descrição: 
-Este é um pequeno projeto desenvolvido utilizando **HTML, CSS e JavaScript**. Ele tem como objetivo permitir que os usuários pesquisem sobre diversas raças de cachorros, fornecendo informações detalhadas sobre cada uma delas.
+Este é um pequeno projeto desenvolvido utilizando **HTML, CSS e JavaScript**. Ele tem como objetivo permitir que os usuários pesquisem sobre diversas raças de cachorros, fornecendo informações sobre cada uma delas.
 
 ## Tecnologias Utilizadas
 - **HTML**: estrutura do site
